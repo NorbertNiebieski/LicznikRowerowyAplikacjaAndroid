@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Licznik Rowerowy</string>
+    <string name="ble_playground">BLE Playground</string>
+    <string name="szybko_chwilowa">Szybkość chwilowa:</string>
+</resources>
